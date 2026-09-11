@@ -1,49 +1,0 @@
-An Open Chair guide
-The ATS, Demystified
-The software between you and the recruiter, explained by someone who has run these systems from the other side.
-Last verified: September 2026
-Next review: March 2027
-Version: 2.2
-Every factual claim in this guide carries a marker. Verified Sep 2026 means I traced it to a primary source, listed on the Sources tab. Unconfirmed means the claim circulates widely but I could not trace it to a source I trust, so I am telling you that instead of hiding it.
-If you read a job search statistic anywhere else and it has no marker like this, ask two questions: where did the number come from, and who makes money if you believe it. That habit is worth more than anything else in this guide.
-
-
-
-
-
-
-The basics
-Myths, retired
-What you do
-What changed
-Cheat sheet
-Sources and upkeep
-What an ATS actually is
-A filing cabinet with a search bar.
-If you have applied for a job in the last few years, an ATS has touched your resume. If you have gotten a rejection email at 2 AM and wondered what kind of robot judged your career while you slept, this guide is for you. The short version: the ATS is not the villain of your job search. But not understanding it might be.
-ATS stands for Applicant Tracking System. Workday, Greenhouse, Lever, iCIMS, Ashby, BambooHR, they are all versions of the same thing. It collects applications, pulls the text of your resume into database fields, and gives the hiring team one place to post jobs, track candidates through stages, schedule interviews, and send emails. That is the whole job. One recruiter put it best: the T stands for Tracking, not Terminator.
-How common is it, really
-In 2026, Jobscan detected an applicant tracking system on the career pages of 97.4% of Fortune 500 companies, which is 487 out of 500. Verified Sep 2026 The other 13 most likely built something in house. That number has barely moved in eight years, so treat "big company means an ATS" as a safe assumption.
-Which ones you will actually meet
-Inside the Fortune 500, the field is concentrated. Workday alone is used by more than 40% of the list, and Workday plus SuccessFactors together account for 52.4%. Verified Sep 2026
-Outside the Fortune 500 it spreads out considerably. Across more than 13,000 companies where Jobscan detected a system, Greenhouse came in at 19.0%, Workday at 17.5%, Lever at 15.6%, and iCIMS at 14.4%. Verified Sep 2026 Practical takeaway: if you are applying to startups and mid-size companies, you will see Greenhouse and Lever far more often than the enterprise names.
-The journey of one application
-Here is what actually happens between clicking Submit and hearing back.
-	1	You apply Resume uploaded, questions answered.
-	2	Knockout questions "3+ years experience?" "Authorized to work?" This is the only true auto rejection point in the building. A human wrote these rules. This is where the 2 AM rejection email comes from.
-	3	Your resume is parsed Text pulled into database fields: jobs, dates, titles, skills. The parsed version, not your beautiful PDF, is what the system stores and searches.
-	4	You wait in the database With everyone else.
-	5	A recruiter searches Keywords, filters, ranked lists. You are either found here or you are invisible here. This is the step worth optimizing.
-	6	A human skims Seconds, not minutes. The top third of page one wins.
-	7	A human decides Advance, hold, or pass. A person, every time. Referrals enter at this step and skip the whole queue.
-Steps 2 and 3 are software. Steps 5, 6, and 7 are people. Almost nobody's resume is rejected by a robot for missing a keyword. It just never gets found in step 5. That is the problem worth solving.
-From the other side of the desk
-I have run Ashby from the admin side, and the hard part was never a lack of qualified people. It was volume. I remember sitting down to a stack of 68 resumes and feeling my attention shrink by the tenth one, my scans getting shorter and shorter, knowing I would never get through them all.
-So give yourself some grace. When you do not hear back, it is usually not a verdict on you. It is a tired human buried in volume. That is the whole reason this guide teaches you to be found fast and skimmed easily.
-Stuck on any of this?
-The Open Chair is a chair, a coffee, and an hour, for anyone between jobs. We can look at your resume together, work out what to say about a layoff, or just talk through where your search is stalling. In person around the Bay Area, or over video from anywhere.
-No cost, nothing to sign up for, and nothing sold to you at the end of it.
-kris.kealoha.giron@gmail.com
-Or read more about The Open Chair.
-The Open Chair. A chair, a coffee, and an hour for anyone between jobs.
-Written by Kris Kealoha Giron. Share it freely with anyone who needs it.
